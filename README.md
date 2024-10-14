@@ -27,5 +27,10 @@ Para executar o projeto em sua máquina, siga os passos abaixo:
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seuusuario/sistema-controle-funcoes.git
-   cd sistema-controle-funcoes
+   git clone https://github.com/JuanCoutinho/Desafio-T-cnico.git
+   cd Desafio-T-cnico
+
+1. **Rode o Programa**:
+
+   ```bash
+   ruby app.rb
