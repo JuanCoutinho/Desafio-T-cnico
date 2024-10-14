@@ -1,6 +1,4 @@
-# Sistema de Controle de Funções em Ruby
-
-![Logo](https://example.com/logo.png) <!-- Insira uma URL para um logo do projeto, se tiver -->
+# Desafio Técnico
 
 ## Descrição
 
